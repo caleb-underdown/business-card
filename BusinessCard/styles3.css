@@ -1,0 +1,25 @@
+body{
+	margin: 20px;
+	font-size: 105%;
+	color:  #2b2839;
+	font-family: verdana, geneva, tahoma, sans-serif;
+}
+
+.caleb-headshot{
+	width: 230px;
+}
+
+.wrapper{
+	background: #ddebf8;
+	width: 400px;
+	margin: 0 auto;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	border-bottom: 5px solid #d8cefe;
+}
+
+/*.border{
+	border: 1px dotted blue;
+}*/
